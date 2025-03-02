@@ -1,1 +1,1 @@
-# To use this file, you must have Assetto Corsa downloaded in your steam folder. For the No Hesi option, you probably might need all the DLC for cars.
+# To use this file, you must have Assetto Corsa downloaded in your steam folder or elserwhere, if it is not in the steam folder please adjust the file location to where your Assetto Corsa is installed in the 15th line. For the No Hesi option, you probably might need all the DLC for cars.
