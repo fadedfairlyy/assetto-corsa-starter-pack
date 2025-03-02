@@ -1,2 +1,1 @@
-# assetto-corsa-starter-pack
-An assetto corsa starter pack, using powershell! MUST HAVE ASSETTO CORSA DOWNLOADED IN YOUR STEAM FOLDER.
+# To use this file, you must have Assetto Corsa downloaded in your steam folder. For the No Hesi option, you probably might need all the DLC for cars.
