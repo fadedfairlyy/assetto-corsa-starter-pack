@@ -1,4 +1,5 @@
-# To use this file, you must have Assetto Corsa downloaded in your steam folder or elserwhere, if it is not in the steam folder please adjust the file location to where your Assetto Corsa is installed in the 15th line. For the No Hesi option, you probably might need all the DLC for Assetto Corsa cars. 
+# To use this file: 
+You must have Assetto Corsa downloaded in your steam folder or elsewhere, if it is not in the steam folder please adjust the file location to where your Assetto Corsa is installed in the 15th line of assetto_corsa_starter-pack.ps1. For the No Hesi Track and Car option, you probably might need all the DLC for the Assetto Corsa / No Hesi cars. You can do this by buying the ultimate version of Assetto Corsa on Steam or another Third-Party retailer. 
 
 # How to run the menu automatically: 
 The automatic version of running this is opening up a powershell window as an administrator, and typing in the following code: 
