@@ -20,7 +20,7 @@ Give the shortcut a name (eg: Assetto Corsa Starter Pack)
 Click finish to create the shortcut.
 Double-click on the shortcut and the menu will open.
 
-# How to Run the shortcut as an Administrator:
+# How to Run the Shortcut as an Administrator:
 Right-click the shortcut you just created and select Properties.
 In the shortcut tab, click the advanced button.
 Check the Run as administrator box/
